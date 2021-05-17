@@ -62,7 +62,11 @@ Developed on [VS Code][vc] with [EditorConfig][vceditconfig], [ESLint][vceslint]
 
 ## :information_source: How To Use
 
-To clone and run this application, you can use [Git](https://git-scm.com), [Node.js v14.15.4][nodejs] or higher + [Yarn v1.22.5][yarn] or higher installed on your computer. On your command line:
+To clone and run this application, you can use [Git](https://git-scm.com), [Node.js v14.15.4][nodejs] or higher + [Yarn v1.22.5][yarn] or higher installed on your computer.
+
+**You also need the [GoFinances Backend](https://github.com/wellingtonleitedev/gofinances-backend) to use all the features.**
+
+On your command line:
 
 ```bash
 # Clone this repository
